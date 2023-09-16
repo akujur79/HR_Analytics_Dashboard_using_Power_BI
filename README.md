@@ -3,14 +3,14 @@
 **Introduction**
 Welcome to the HR Analytics Dashboard for Employee Attrition. This Power BI dashboard provides valuable insights into employee attrition patterns and key performance indicators (KPIs) related to attrition within the organization. By analyzing various aspects of employee data, we aim to understand the factors contributing to attrition and take proactive measures.
 
-**Objectives**
+**Objectives:**
 The main objectives of this dashboard are:
 
 **Explore Attrition Relationships:** Analyze the relationships between attrition and various KPIs such as education, age, job roles, salary, and work experience.
 **Data Processing:** Clean and process the raw employee data from an Excel dataset using Power Query in Power BI.
 **Visualize Insights:** Create interactive visualizations to help stakeholders understand attrition patterns and make informed decisions.
 
-**Data Processing Steps**
+**Data Processing Steps:**
 To achieve our objectives, we followed these data processing steps:
 
 **Data Import:** We started by importing the employee dataset from an Excel file.
