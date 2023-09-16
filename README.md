@@ -1,20 +1,19 @@
 **HR Analytics Dashboard - Employee Attrition**
 
-**Introduction**
+**Introduction:**
 Welcome to the HR Analytics Dashboard for Employee Attrition. This Power BI dashboard provides valuable insights into employee attrition patterns and key performance indicators (KPIs) related to attrition within the organization. By analyzing various aspects of employee data, we aim to understand the factors contributing to attrition and take proactive measures.
 
-**Objectives:**
+**Objectives-**
 The main objectives of this dashboard are:
 
 **Explore Attrition Relationships:** Analyze the relationships between attrition and various KPIs such as education, age, job roles, salary, and work experience.
 **Data Processing:** Clean and process the raw employee data from an Excel dataset using Power Query in Power BI.
 **Visualize Insights:** Create interactive visualizations to help stakeholders understand attrition patterns and make informed decisions.
 
-**Data Processing Steps:**
+**Data Processing Steps-**
 To achieve our objectives, we followed these data processing steps:
 
 **Data Import:** We started by importing the employee dataset from an Excel file.
-
 **Data Exploration:** We explored the dataset to identify key factors contributing to attrition.
 **Data Cleaning:** We removed duplicate entries, handled null values, and corrected errors using Power Query.
 **Dashboard Creation:** We designed the dashboard in Power BI Desktop, including the following components:
@@ -22,32 +21,32 @@ To achieve our objectives, we followed these data processing steps:
 **Dashboard Overview**
 
 **Key KPI Cards**
-Number of Employees
-Number of Attrition Cases
-Attrition Rate
-Average Salary
-Average Age
+Number of Employees,
+Number of Attrition Cases,
+Attrition Rate,
+Average Salary,
+Average Age,
 Average Years of Experience
 
 *Donut Chart*
 Education levels of employees, with attrition percentages.
 
-**Column Chart**
+**Column Chart:**
 Age groups of employees, with attrition counts.
 
-**Table**
+**Table:**
 Job roles and their feedback scores on job satisfaction, along with attrition counts.
 
-**Bar Chart**
+**Bar Chart:**
 Salary slabs and the attrition rate.
 
-**Area Graph**
+**Area Graph:**
 Work experience distribution of employees.
 
-**Bar Chart**
+**Bar Chart:**
 Attrition counts based on job roles.
 
-**Conclusion**
+**Conclusion:**
 After analyzing the HR analytics dashboard, we have discovered valuable insights:
 
 -Most attrition cases are from employees with a education background in life sciences and medical sciences.
